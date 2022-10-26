@@ -1,1 +1,1 @@
-# AI
+# AI-weekly activities
