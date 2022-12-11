@@ -60,7 +60,7 @@
 • Image classification with a convolutional network<br/>
 <br/>
 
-### [Week-9](Week 9(1-2).ipynb) | [Week-9(2)](Week 9_2(1-2).ipynb): <br/>
+### [Week-9](Week 9(1-2).ipynb) | [Week-5(2)](Week5(2)_939.ipynb): <br/>
 • Logistic unit for binary classification<br/>
 • Softmax unit for multiclass classification<br/>
 • Linear unit for regression<br/>
