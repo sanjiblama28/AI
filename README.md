@@ -43,14 +43,14 @@
 
 <br/>
 
-### [Week-6](week6 (1)_939.ipynb) | [Week-6(2)](Week6_2-939.ipynb): <br/>
+### [Week-6](week6 (1)_939.ipynb) | [Week-6(2)](week6_2-939.ipynb): <br/>
 • Linear Regression using TensorFlow<br/>
 • Visualization of Linear Regression parameters using TensorFlow<br/>
 • Digit Classification | Neural network to classify MNIST dataset using TensorFlow<br/>
 
 <br/>
 
-### [Week-7](Week7 (1) -939.ipynb) | [Week-7(2)](Week7(2)_939.ipynb): <br/>
+### [Week-7](Week7 (1) -939.ipynb) | [Week-7(2)](week7(2)_939.ipynb): <br/>
 • Convolutional Neural Networks<br/>
 • The CIFAR-10 Dataset<br/>
 • Characteristics and building blocks for convolutionallayers<br/>
@@ -94,16 +94,6 @@
 • Programming Example: Forecasting book sales<br/>
 <br/>
 
-### [Week-12](week11_Lab(1-4).ipynb)
-• Limitations of Feedforward Networks<br/>
-• Recurrent Neural Networks<br/>
-• Mathematical Representation of a Recurrent layer<br/>
-• Combining layers into an RNN<br/>
-• Alternative veiw of RNN and Unrolling in Time<br/>
-• Backpropagation Through Time<br/>
-• Programming Example: Forecasting book sales<br/>
-<br/>
-
 ### [Week-12](Week12_939.ipynb)
 • Keeping Gradients Healthy<br/>
 • Introduction to LSTM<br/>
@@ -111,7 +101,7 @@
 • Alternative view of LSTM<br/>
 <br/>
 
-### [Week-13](week10(1)_939.ipynb) | [Week-13(2)](Week13(2)_939.ipynb): <br/>
+### [Week-13](week13(1)_939.ipynb) | [Week-13(2)](Week13(2)_939.ipynb): <br/>
 #### Natural Language Processing, binary unigram, binary bigram, TF-IDF bigram model<br/>
 #### A sequence model built on one-hot encoded vector sequences<br/>
 • Encoding text<br/>
