@@ -33,7 +33,7 @@
 
 <br/>
 
-### [Week-5](Week5_939.ipynb) | [Week-5, pt2](Week5(2)_939.ipynb): <br/>
+### [Week-5](Week5_939.ipynb) | [Week-5(2)](Week5(2)_939.ipynb): <br/>
 • What is Tensorflow<br/>
 • Computational graph<br/>
 • Variables, Constants and Placeholders in TensorFlow<br/>
@@ -43,14 +43,14 @@
 
 <br/>
 
-### [Week-6](Week6_12190259.ipynb) | [Week-6, pt2](Week6_12190259_session2.ipynb): <br/>
+### [Week-6](week6 (1)_939.ipynb) | [Week-6(2)](Week6_2-939.ipynb): <br/>
 • Linear Regression using TensorFlow<br/>
 • Visualization of Linear Regression parameters using TensorFlow<br/>
 • Digit Classification | Neural network to classify MNIST dataset using TensorFlow<br/>
 
 <br/>
 
-### [Week-7](Week7_1_12190259.ipynb) | [Week-7, pt2](Week7_2_12190259.ipynb): <br/>
+### [Week-7](Week7 (1) -939.ipynb) | [Week-7(2)](Week7(2)_939.ipynb): <br/>
 • Convolutional Neural Networks<br/>
 • The CIFAR-10 Dataset<br/>
 • Characteristics and building blocks for convolutionallayers<br/>
@@ -60,7 +60,7 @@
 • Image classification with a convolutional network<br/>
 <br/>
 
-### [Week-9](Week9_12190259.ipynb) | [Week-9, pt-2](Week9_2_12190259.ipynb): <br/>
+### [Week-9](Week9(1-2).ipynb) | [Week-9(2)](Week9_2(1-2).ipynb): <br/>
 • Logistic unit for binary classification<br/>
 • Softmax unit for multiclass classification<br/>
 • Linear unit for regression<br/>
@@ -71,7 +71,7 @@
 • Concluding remarks on output units and regression problems<br/>
 <br/>
 
-### [Week-10](Week10_12190259.ipynb) | [Week-10, pt-2](Week10_2_12190259.ipynb): <br/>
+### [Week-10](week_10(1-2).ipynb) | [Week-10(2)](Week10(2)_939.ipynb): <br/>
 #### Deeper CNNs and Pretrained Models <br/>
 • VGGNet<br/>
 • GoogLeNet<br/>
@@ -84,7 +84,7 @@
 <br/>
 
 
-### [Week-11](Week11_12190259.ipynb)
+### [Week-11](week11_Lab(1-4).ipynb)
 • Limitations of Feedforward Networks<br/>
 • Recurrent Neural Networks<br/>
 • Mathematical Representation of a Recurrent layer<br/>
@@ -93,3 +93,35 @@
 • Backpropagation Through Time<br/>
 • Programming Example: Forecasting book sales<br/>
 <br/>
+
+### [Week-12](week11_Lab(1-4).ipynb)
+• Limitations of Feedforward Networks<br/>
+• Recurrent Neural Networks<br/>
+• Mathematical Representation of a Recurrent layer<br/>
+• Combining layers into an RNN<br/>
+• Alternative veiw of RNN and Unrolling in Time<br/>
+• Backpropagation Through Time<br/>
+• Programming Example: Forecasting book sales<br/>
+<br/>
+
+### [Week-12](Week12_939.ipynb)
+• Keeping Gradients Healthy<br/>
+• Introduction to LSTM<br/>
+• Creating a network of LSTM cells<br/>
+• Alternative view of LSTM<br/>
+<br/>
+
+### [Week-13](week10(1)_939.ipynb) | [Week-13(2)](Week13(2)_939.ipynb): <br/>
+#### Natural Language Processing, binary unigram, binary bigram, TF-IDF bigram model<br/>
+#### A sequence model built on one-hot encoded vector sequences<br/>
+• Encoding text<br/>
+• Longer-term prediction and autoregressive models<br/>
+• Beam Search<br/>
+• Bidirectional RNNS<br/>
+• Different combinations of input and output sequences<br/>
+<br/>
+
+### [Week-14](Week14_939.ipynb)
+
+#### Natural Language Processing using transformer encoder
+
