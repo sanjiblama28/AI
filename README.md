@@ -50,7 +50,7 @@
 
 <br/>
 
-### [Week-7](Week7 (1) -939.ipynb) | [Week-7(2)](week7(2)_939.ipynb): <br/>
+### [Week-7](Week 7 (1) -939.ipynb) | [Week-7(2)](week7(2)_939.ipynb): <br/>
 • Convolutional Neural Networks<br/>
 • The CIFAR-10 Dataset<br/>
 • Characteristics and building blocks for convolutionallayers<br/>
@@ -60,7 +60,7 @@
 • Image classification with a convolutional network<br/>
 <br/>
 
-### [Week-9](Week9(1-2).ipynb) | [Week-9(2)](Week9_2(1-2).ipynb): <br/>
+### [Week-9](Week 9(1-2).ipynb) | [Week-9(2)](Week 9_2(1-2).ipynb): <br/>
 • Logistic unit for binary classification<br/>
 • Softmax unit for multiclass classification<br/>
 • Linear unit for regression<br/>
