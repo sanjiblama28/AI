@@ -9,20 +9,20 @@
 
 <br/>
 
-### [Week-2](Week2_12190259.ipynb): <br/>
+### [Week-2](Week2_939.ipynb): <br/>
 • Get Started with Google Colab<br/>
 • Uploading data<br/>
 • Importing Kaggle’s dataset<br/>
 • Basic File Operations<br/>
 <br/>
 
-### [Week-3](Week3_12190259.ipynb): <br/>
+### [Week-3](Week3_939.ipynb): <br/>
 **The backpropagation algorithm:<br/>**
 • The forward pass<br/>
 • The backward pass<br/>
 <br/>
 
-### [Week-4](Week4_12190259.ipynb): <br/>
+### [Week-4](Week4_939.ipynb): <br/>
 **Fully Connected Networks Applied to Multiclass Classification:**<br/>
 • Introduction to Datasets used when training networks<br/>
 • Extending the network and learning algorithm to do multiclass classification<br/>
@@ -33,7 +33,7 @@
 
 <br/>
 
-### [Week-5](Week5_12190259.ipynb) | [Week-5, pt2](Week5_part2_12190259.ipynb): <br/>
+### [Week-5](Week5_939.ipynb) | [Week-5, pt2](Week5(2)_939.ipynb): <br/>
 • What is Tensorflow<br/>
 • Computational graph<br/>
 • Variables, Constants and Placeholders in TensorFlow<br/>
